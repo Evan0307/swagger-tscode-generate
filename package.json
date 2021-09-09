@@ -1,0 +1,8 @@
+{
+  "name": "swagger-tscode-generate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Evan0307/swagger-tscode-generate.git",
+  "author": "xuezhenjiang <zhenjiang.xue@zatech.com>",
+  "license": "MIT"
+}
