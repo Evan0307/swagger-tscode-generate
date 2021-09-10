@@ -1,6 +1,6 @@
 {
   "name": "swagger-tscode-generate",
-  "version": "1.0.3",
+  "version": "1.0.2",
   "description": "Generate TS code when you open swagger docs",
   "main": "index.js",
   "scripts": {
