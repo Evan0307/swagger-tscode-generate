@@ -8,9 +8,9 @@ Generate typescript codes once user visit online swagger(2.x) docs.
 // ts-code-gen.js
   const  settingParams = [
   {
-    // swagger json data  url
+    // swagger json data or url
+    // swagger:swaggerJson,
     url:'https://petstore.swagger.io/v2/swagger.json',
-    swagger:'',
     codegen:{
        // generated Folders
     tsType:'src/codegen/types',
